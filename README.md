@@ -1,16 +1,15 @@
-## Hi there 👋
+## Buenos días, soy Anahí Loza 👋
 
-<!--
-**Anahi-droid/anahi-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Desarrollo de Software**
+Terminando el primer semestre de Tecnología en Desarrollo de Software, con intereses bastante amplios. Una de mis pasiones es el nutrirme de conocimiento que fortalezcan mi carrera y mis habilidades como desarrolladora. 
 
-Here are some ideas to get you started:
+**Mis intereses como desarrolladora**
+ 
+- Desarrollo web con HTML, CSS y Python.
+- Diseño de interfaces con Tkinter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Metas en Web3**
+
+💬 Construir y desplegar contratos inteligentes en Ethereum.
+💬 Convertirme en desarrolladora blockchain full-stack.
+
